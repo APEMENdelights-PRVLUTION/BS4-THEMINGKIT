@@ -1,0 +1,24 @@
+{
+  "name": "BS4-THEMINGKIT",
+  "version": "1.0.0",
+  "description": "Theming Kit to test your colortheme",
+  "main": "index.js",
+  "author": "APEMENDelights",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.6.1",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-scss-lint": "^1.0.0",
+    "gulp-sourcemaps": "^2.6.5"
+  }
+}
